@@ -1,0 +1,9 @@
+C:\Users\Toms-PC\source\repos\Gear_Checker\obj\Debug\Gear_Checker.csprojAssemblyReference.cache
+C:\Users\Toms-PC\source\repos\Gear_Checker\obj\Debug\Gear_Checker.Form1.resources
+C:\Users\Toms-PC\source\repos\Gear_Checker\obj\Debug\Gear_Checker.Properties.Resources.resources
+C:\Users\Toms-PC\source\repos\Gear_Checker\obj\Debug\Gear_Checker.csproj.GenerateResource.cache
+C:\Users\Toms-PC\source\repos\Gear_Checker\bin\Debug\Gear_Checker.exe.config
+C:\Users\Toms-PC\source\repos\Gear_Checker\bin\Debug\Gear_Checker.exe
+C:\Users\Toms-PC\source\repos\Gear_Checker\bin\Debug\Gear_Checker.pdb
+C:\Users\Toms-PC\source\repos\Gear_Checker\obj\Debug\Gear_Checker.exe
+C:\Users\Toms-PC\source\repos\Gear_Checker\obj\Debug\Gear_Checker.pdb

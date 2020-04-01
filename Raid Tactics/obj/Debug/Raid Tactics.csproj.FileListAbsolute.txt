@@ -1,0 +1,9 @@
+C:\Users\Toms-PC\source\repos\Raid Tactics\bin\Debug\Raid Tactics.exe.config
+C:\Users\Toms-PC\source\repos\Raid Tactics\bin\Debug\Raid Tactics.exe
+C:\Users\Toms-PC\source\repos\Raid Tactics\bin\Debug\Raid Tactics.pdb
+C:\Users\Toms-PC\source\repos\Raid Tactics\obj\Debug\Raid Tactics.csprojAssemblyReference.cache
+C:\Users\Toms-PC\source\repos\Raid Tactics\obj\Debug\Raid_Tactics.Form1.resources
+C:\Users\Toms-PC\source\repos\Raid Tactics\obj\Debug\Raid_Tactics.Properties.Resources.resources
+C:\Users\Toms-PC\source\repos\Raid Tactics\obj\Debug\Raid Tactics.csproj.GenerateResource.cache
+C:\Users\Toms-PC\source\repos\Raid Tactics\obj\Debug\Raid Tactics.exe
+C:\Users\Toms-PC\source\repos\Raid Tactics\obj\Debug\Raid Tactics.pdb
